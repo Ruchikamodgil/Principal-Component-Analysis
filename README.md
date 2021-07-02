@@ -1,5 +1,5 @@
 # Principal-Component-Analysis
-
+Introduction
 ``` Principal component analysis (PCA)``` is a statistical procedure that is used to reduce the dimensionality. It uses an orthogonal transformation to convert a set of observations of possibly correlated variables into a set of values of linearly uncorrelated variables called principal components.<br> 
 ### It is often used as a dimensionality reduction technique.<br>
 You can reduce dimensionality by limiting the number of principal components to keep based on cumulative explained variance.<br>
